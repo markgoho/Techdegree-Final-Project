@@ -1,0 +1,32 @@
+{
+  "name": "techdegree-final-project",
+  "version": "1.0.0",
+  "description": "Final project for Treehouse Tech Degree",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgoho/Techdegree-Final-Project.git"
+  },
+  "author": "Mark Goho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markgoho/Techdegree-Final-Project/issues"
+  },
+  "homepage": "https://github.com/markgoho/Techdegree-Final-Project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "pug": "^2.0.0-beta6"
+  }
+}

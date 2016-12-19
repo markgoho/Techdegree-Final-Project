@@ -1,0 +1,13 @@
+.doula-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.doula {
+    display: flex;
+}
+
+.doula a img {
+    max-width: 100px;
+    margin-right: 1em;
+}
